@@ -1,0 +1,18 @@
+
+calendarific api info: 
+
+api key: 5a8eccc7acb1769980c56ad2c4b93af2943950a5
+
+
+
+unsplash api info:
+
+access key: 3e12064f186a1c6cb68784c8813f72830f1b6e18c41de599b155df802c707ddb
+secret key: b92a5d8262984499e76ed987efbed311f2e76ae67a7861494b8c45de79138a28
+
+
+----
+
+rest countries api: 
+
+https://restcountries.eu/rest/v2/all

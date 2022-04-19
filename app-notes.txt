@@ -1,0 +1,22 @@
+
+
+- done -> // Holidays around the world
+
+- done -> // Display flags from all countries in database 
+
+- done -> // Make flags clickable links
+
+- done -> // When click flag, open modal to show all holidays from that flags country
+
+- done -> // close modal
+
+- done -> bring in data from both apis to display in modal window
+
+- done -> Display country information in country info box above holiday list in modal
+
+- done -> make first country not appear twice when another flag is clicked
+
+- done -> make modal window display properly on mobile devices 
+
+- done -> make country name and summary display when hover over flag 
+

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Holidays Around The World</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>Holidays around the world</h1>
+        </header>
+
+        <main>
+            <form class="get-flags-form">
+                <button type="submit" class="submit-button">Show Country Flags</button>
+                <p>Click on a flag to see a list of holidays in that country.</p>
+            </form>
+
+            <div class="display-container">
+
+                <!-- Carousel Start -->
+                <!-- =========== CAROUSEL CONTAINER ======== -->
+                <div class="carousel-container">
+                    <!-- previous button -->
+                    <div class="carousel-button previous">
+                        <!-- from linearicons icon font -->
+                        <span class="lnr lnr-chevron-left"></span>
+                    </div>
+                    <!-- images -->
+                    <div class="carousel-images">
+                        <img src="Diwali.jpg" alt="">
+                        <img src="Eid-al-Qurban.jpg" alt="">
+                        <img src="fourth.jpg" alt="">
+                        <img src="parade_dragon_dance.jpg" alt="">
+                        <img src="international-christmas.jpg" alt="">
+                    </div>
+                    <!-- next button -->
+                    <div class="carousel-button next">
+                        <!-- from linearicons icon font -->
+                        <span class="lnr lnr-chevron-right"></span>
+                    </div>
+                </div>
+                <!-- Carousel End -->
+
+                <div class="display"></div>
+
+                <div class="modal-bg">
+                    <div class="modal">
+                        <p class="close">Close Window</p>
+                    </div>
+                </div>
+
+
+            </div>
+        </main>
+
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+    <script src="carousel.js"></script>
+</body>
+
+</html>
